@@ -1,6 +1,8 @@
 # redditbot
 Reddit bot for searching subreddits and returning information on relevant posts.
 
+If you enjoy my work & would like to show your support, consider buying me a cup of coffee on [Venmo](https://venmo.com/code?user_id=1397160142700544485).
+
 ## Installation
 
 Create a Reddit script application [here](https://www.reddit.com/prefs/apps) and copy your login information to the *praw.ini* file stored in the project directory (this is what the Reddit API will use to authenticate your account).
